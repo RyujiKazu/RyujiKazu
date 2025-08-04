@@ -46,13 +46,3 @@ Saya seorang pengembang game indie dari Indonesia yang bersemangat dalam mencipt
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Blender-E87D0D%3Fstyle%3Dfor-the-badge%26logo%3Dblender%26logoColor%3Dwhite" alt="Blender"/>
 </a>
 </p>
-
-📊 Statistik GitHub Saya
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRyujiKazu%26show_icons%3Dtrue%26locale%3Did%26theme%3Ddracula%26count_private%3Dtrue" alt="Statistik GitHub RyujiKazu" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRyujiKazu%26layout%3Dcompact%26locale%3Did%26theme%3Ddracula" alt="Bahasa Teratas" />
-</a>
-</p>
