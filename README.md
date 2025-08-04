@@ -20,9 +20,6 @@ Saya seorang pengembang game indie dari Indonesia yang bersemangat dalam mencipt
 <img src="https://i.imgur.com/liWfqTW.png" alt="Pratinjau Proyek RyujiGo"/>
 </a>
 <p>
-<a href="https://www.google.com/search?q=https://github.com/RyujiKazu/RyujiGo" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Repo-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub">
-</a>
 <!-- Jika Anda punya link ke Itch.io, hapus komentar di baris bawah ini -->
 <!--
 <a href="[LINK_KE_ITCH.IO_ANDA]" target="_blank">
