@@ -17,7 +17,7 @@ Saya seorang pengembang game indie dari Indonesia yang bersemangat dalam mencipt
 <h3 align="center">Project: RyujiGo</h3>
 <a href="https://github.com/RyujiKazu/ryujigo_game" target="_blank">
 <!-- Ganti gambar placeholder ini dengan screenshot atau GIF dari game Anda -->
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/1D2B53/FFFFFF%3Ftext%3DRyujiGo%2BGIF" alt="Pratinjau Proyek RyujiGo"/>
+<img src="https://imgur.com/a/7HZxvOB" alt="Pratinjau Proyek RyujiGo"/>
 </a>
 <p>
 <a href="https://www.google.com/search?q=https://github.com/RyujiKazu/RyujiGo" target="_blank">
