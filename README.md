@@ -10,47 +10,28 @@ Saya seorang pengembang game indie dari Indonesia yang bersemangat dalam mencipt
 
 💬 Jangan ragu bertanya kepada saya tentang Godot, GDScript, atau proses desain game!
 
-📫 Hubungi saya melalui: [emailanda@example.com]
+📫 Hubungi saya melalui: [rivalsetiawan200@gmail.com]
 
 📌 Proyek Unggulan
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project: Galactic Paws</h3>
 <div align="center">
-<a href="[LINK_KE_REPO_ANDA]" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/1D2B53/FFFFFF%3Ftext%3DGalactic%2BPaws%2BGIF" alt="Pratinjau Proyek Galactic Paws"/>
+<h3 align="center">Project: RyujiGo</h3>
+<a href="https://www.google.com/search?q=https://github.com/RyujiKazu/RyujiGo" target="_blank">
+<!-- Ganti gambar placeholder ini dengan screenshot atau GIF dari game Anda -->
+<img src="https://www.google.com/search?q=https://placehold.co/400x250/1D2B53/FFFFFF%3Ftext%3DRyujiGo%2BGIF" alt="Pratinjau Proyek RyujiGo"/>
 </a>
 <p>
-<a href="[LINK_KE_REPO_ANDA]" target="_blank">
+<a href="https://www.google.com/search?q=https://github.com/RyujiKazu/RyujiGo" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Repo-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub">
 </a>
+<!-- Jika Anda punya link ke Itch.io, hapus komentar di baris bawah ini -->
+<!--
 <a href="[LINK_KE_ITCH.IO_ANDA]" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Itch.io-Play-red%3Fstyle%3Dfor-the-badge%26logo%3Ditch.io">
 </a>
+-->
 </p>
-<p>Sebuah game petualangan top-down di mana seekor kucing pemberani menjelajahi galaksi. Dibuat sepenuhnya dengan Godot Engine.</p>
+<p>Proyek game pertama saya yang dibuat dengan Godot Engine. Sebuah langkah awal dalam perjalanan saya menjadi seorang pengembang game.</p>
 </div>
-</td>
-<td width="50%">
-<h3 align="center">Project: Rhy-Quest</h3>
-<div align="center">
-<a href="[LINK_KE_REPO_ANDA]" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/7E2553/FFFFFF%3Ftext%3DRhy-Quest%2BGIF" alt="Pratinjau Proyek Rhy-Quest"/>
-</a>
-<p>
-<a href="[LINK_KE_REPO_ANDA]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Repo-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub">
-</a>
-<a href="[LINK_KE_ITCH.IO_ANDA]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Itch.io-Play-red%3Fstyle%3Dfor-the-badge%26logo%3Ditch.io">
-</a>
-</p>
-<p>Game ritme sederhana yang menantang pemain untuk mengikuti irama. Eksperimen saya dengan sistem audio di Godot.</p>
-</div>
-</td>
-</tr>
-</table>
 
 🛠️ Teknologi & Peralatan
 <p align="left">
@@ -72,9 +53,9 @@ Saya seorang pengembang game indie dari Indonesia yang bersemangat dalam mencipt
 📊 Statistik GitHub Saya
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=[NAMA_PENGGUNA_ANDA]&show_icons=true&locale=id&theme=dracula&count_private=true" alt="Statistik GitHub [Nama Pengguna Anda]" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRyujiKazu%26show_icons%3Dtrue%26locale%3Did%26theme%3Ddracula%26count_private%3Dtrue" alt="Statistik GitHub RyujiKazu" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[NAMA_PENGGUNA_ANDA]&layout=compact&locale=id&theme=dracula" alt="Bahasa Teratas" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRyujiKazu%26layout%3Dcompact%26locale%3Did%26theme%3Ddracula" alt="Bahasa Teratas" />
 </a>
 </p>
